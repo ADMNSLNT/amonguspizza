@@ -143,9 +143,8 @@ export default function App() {
           </h2>
           
           <div className="bg-space-900/50 border border-white/10 rounded-2xl p-4 md:p-8 flex flex-col items-center justify-center min-h-[300px] overflow-hidden">
-            {/* Using a placeholder for the menu image. The user can replace this with their actual uploaded image. */}
             <img 
-              src="https://maps.app.goo.gl/uUzm69ecccXrrzds8" 
+              src="https://lh3.googleusercontent.com/gps-cs-s/AHVAwerelXxwWpwfZI_zz1bH4bEc1tregzLI7cFZAhIjCVPEQIb1Dfcy-FGXH5hujZR5VREv5erpMIusyeO9H9yRUt2CNzgJ_wmhkymmMQoldbQQc7EpGMphvKcQrp81sEDIwbz3hnixYxA4O6aT=s1000" 
               alt="Menú de Among Us Pizza" 
               className="w-full h-auto rounded-xl shadow-2xl border border-white/10"
               referrerPolicy="no-referrer"
