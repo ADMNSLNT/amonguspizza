@@ -145,7 +145,7 @@ export default function App() {
           <div className="bg-space-900/50 border border-white/10 rounded-2xl p-4 md:p-8 flex flex-col items-center justify-center min-h-[300px] overflow-hidden">
             {/* Using a placeholder for the menu image. The user can replace this with their actual uploaded image. */}
             <img 
-              src="src\unnamed.jpg" 
+              src="public\unnamed.jpg" 
               alt="Menú de Among Us Pizza" 
               className="w-full h-auto rounded-xl shadow-2xl border border-white/10"
               referrerPolicy="no-referrer"
